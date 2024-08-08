@@ -1,0 +1,33 @@
+.container {
+  border: 5px solid black;
+  border-radius: 10px;
+  margin: 0 auto;
+}
+
+.avatar {
+  margin-top: 5px;
+  max-width: 160px;
+  border-radius: 350px;
+}
+
+.containerHero {
+  margin: 0 auto;
+  justify-content: center;
+  text-align: center;
+}
+
+.listWrap {
+  gap: 5px;
+  display: flex;
+  padding: 5px;
+  background-color: rgb(127, 120, 120);
+  border-top: 4px solid rgb(107, 14, 14);
+  margin-bottom: 0;
+  justify-content: space-evenly;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
